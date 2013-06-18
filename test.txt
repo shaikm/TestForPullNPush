@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 This is a test file
 
 This is an example
 
 
 This is a test message
+=======
+a test file
+this is another test file
+>>>>>>> refs/remotes/origin/TestBranch
